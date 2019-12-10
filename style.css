@@ -1,0 +1,20 @@
+h1{
+color:green;
+font-family:Arial; 
+text-allign:center;
+}
+table{
+color:orange;
+font-family:New Times Roman;
+text-align:center; 
+}
+ul{
+color:blue;
+text-align:left;
+font-family:Sanc;
+}
+ol{
+color:purple;
+text-align:left;
+font-family:Sanc;
+}
